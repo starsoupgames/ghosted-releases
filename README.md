@@ -14,10 +14,14 @@ In an abandoned manor, a group of friends only have themselves and some flashlig
 [Download for Windows (x64)](Ghosted.Release.Windows.x64.zip)  
 
 
-## Controls
+## Quick Start
 ![Quick Start Pals](assets/quickstart-pals.png)  
 ![Quick Start Ghost](assets/quickstart-ghost.png)  
-
+### Controls
+WASD / left half of the screen to move.  
+Arrow keys / right half of the screen to look.  
+Space / double tap to do action.  
+ESC to go back to the start screen.  
 
 ## Other Links
 
