@@ -14,11 +14,16 @@ In an abandoned manor, a group of friends only have themselves and some flashlig
 [Download for Windows (x64)](Ghosted.Release.Windows.x64.zip)  
 
 
+## Controls
+![Quick Start Pals](assets/quickstart-pals.png)  
+![Quick Start Ghost](assets/quickstart-ghost.png)  
+
+
 ## Other Links
 
 [2021 GDIAC Showcase](https://gdiac.cs.cornell.edu/showcase/gallery/ghosted/)  
 
 ## Contributors
-Akane Edwards, Benjamin Shen, Catie Rencricca, Konstantin Kirovski, Michael Chang, SoYee Park, Will Gao, *Aidan Cuite*
+Akane Edwards, Benjamin Shen, Catie Rencricca, Konstantin Kirovski, Michael Chang, SoYee Park, Will Gao, *Aidan Cuite*, *Jacob Nannapanenni*
 
 [Github](https://github.coecis.cornell.edu/starsoupgames/ghosted/releases/) (Cornell students only)
