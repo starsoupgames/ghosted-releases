@@ -11,7 +11,7 @@ In an abandoned manor, a group of friends only have themselves and some flashlig
 [Download for iPhone (Testflight)](https://testflight.apple.com/join/NAUY9ytX)  
 
 [Download for MacOS](Ghosted.Release.Mac.zip)  
-[Download for Windows (x64)](Ghosted.Release.Windows.x64.zip)  
+[Download for Windows (x64)](Ghosted.Release.Windows.zip)  
 
 
 ## Quick Start
