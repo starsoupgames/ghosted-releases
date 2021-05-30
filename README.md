@@ -7,11 +7,11 @@ In an abandoned manor, a group of friends only have themselves and some flashlig
 
 
 ## Download
-[Download for Android (APK)](Ghosted.Release.Android.zip)  
+[Download for Android (APK)](https://github.com/starsoupgames/ghosted-releases/raw/main/Ghosted.Release.Android.zip)  
 [Download for iPhone (Testflight)](https://testflight.apple.com/join/NAUY9ytX)  
 
-[Download for MacOS](Ghosted.Release.Mac.zip)  
-[Download for Windows (x64)](Ghosted.Release.Windows.zip)  
+[Download for MacOS](https://github.com/starsoupgames/ghosted-releases/raw/main/Ghosted.Release.Mac.zip)  
+[Download for Windows (x64)](https://github.com/starsoupgames/ghosted-releases/raw/main/Ghosted.Release.Windows.zip)  
 
 
 ## Quick Start
