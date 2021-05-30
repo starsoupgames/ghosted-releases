@@ -30,4 +30,4 @@ ESC to go back to the start screen.
 ## Contributors
 Akane Edwards, Benjamin Shen, Catie Rencricca, Konstantin Kirovski, Michael Chang, SoYee Park, Will Gao, *Aidan Cuite*, *Jacob Nannapanenni*
 
-[Github](https://github.coecis.cornell.edu/starsoupgames/ghosted/releases/) (Cornell students only)
+[Github](https://github.com/starsoupgames/ghosted)
